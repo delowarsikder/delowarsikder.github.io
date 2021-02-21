@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73efbf52.chunk.css",
+    "main.js": "/static/js/main.bfba315b.chunk.js",
+    "main.js.map": "/static/js/main.bfba315b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2eb4e23d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2eb4e23d.js.map",
+    "static/js/2.775ffd20.chunk.js": "/static/js/2.775ffd20.chunk.js",
+    "static/js/2.775ffd20.chunk.js.map": "/static/js/2.775ffd20.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.73efbf52.chunk.css.map": "/static/css/main.73efbf52.chunk.css.map",
+    "static/js/2.775ffd20.chunk.js.LICENSE.txt": "/static/js/2.775ffd20.chunk.js.LICENSE.txt",
+    "static/media/Delowar_CSE_2k16_KUET_CV.102e0037.pdf": "/static/media/Delowar_CSE_2k16_KUET_CV.102e0037.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eb4e23d.js",
+    "static/js/2.775ffd20.chunk.js",
+    "static/css/main.73efbf52.chunk.css",
+    "static/js/main.bfba315b.chunk.js"
+  ]
+}
