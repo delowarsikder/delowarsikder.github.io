@@ -1,0 +1,39 @@
+{
+    "Education": [{
+            "Degree": "B.Sc in Computer Science and Engineering",
+            "Institution": "Khulna University of Engineering and Technology",
+            "Timeline": {
+                "Start": "February 2017",
+                "End": "Ongoing"
+            },
+            "Activities": [
+                "Took part in Competitive programming and problem Solving which made me fluent in coding and algorithmic knowledge",
+                "Workshop Manager of Hardware Acceleration Club of KUET (HACK)",
+                "Current CGPA: 3.46/4.00"
+            ]
+        },
+        {
+            "Degree": "Higher Secondary School Certificate",
+            "Institution": "Amrita Lal Dey College,Barishal",
+            "Timeline": {
+                "Start": "June 2014",
+                "End": "July 2016"
+            },
+            "Activities": [
+                "Participate Math and Physics olympiad where I got many prize",
+                "GPA : 5.00/5.00"
+            ]
+        },
+        {
+            "Degree": "Secondary School Certificate",
+            "Institution": "Kuripaika Secondary School,Lohalia,Patuakhali",
+            "Timeline": {
+                "Start": "January 2009",
+                "End": "March 2014"
+            },
+            "Activities": [
+                "GPA : 5.00/5.00"
+            ]
+        }
+    ]
+}

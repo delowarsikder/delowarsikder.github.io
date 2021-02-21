@@ -1,0 +1,161 @@
+{
+    "Projects": [{
+            "Name": "Cancer Classification Based on Gene Expression using Machine Learning",
+            "Url": "https://github.com/delowarsikder/Cancer-Classification-Based-on-Gene-Expression-using-Machine-Learning",
+            "Timeline": {
+                "Start": "December 2020",
+                "End": "March 2021"
+            },
+            "Descriptions": [
+                "Python",
+                "ANN",
+                "Tensorflow",
+                "Keras"
+            ]
+        },
+        {
+            "Name": "Pneumonia Detection from Chest Xray images using Deep Learning",
+            "Url": "https://github.com/delowarsikder/Pneumonia-Detection-using-Deep-Learning",
+            "Timeline": {
+                "Start": "September 2019 ",
+                "End": "December 2019"
+            },
+            "Descriptions": [
+                "Python",
+                "CNN",
+                "Tensorflow",
+                "keras"
+            ]
+        },
+        {
+            "Name": " Online School : Build a website for Enhance Online Education",
+            "Url": "https://github.com/delowarsikder/Online-School/tree/master/Login_Registration",
+            "Timeline": {
+                "Start": "February 2019",
+                "End": "July 2019"
+            },
+            "Descriptions": [
+                "Asp.Net",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "BootStrap"
+            ]
+        },
+        {
+            "Name": " iMedicine:",
+            "Url": "https://github.com/delowarsikder/iMedicin",
+            "Timeline": {
+                "Start": "February 2019 ",
+                "End": "July 2019"
+            },
+            "Descriptions": [
+                "Swift",
+                "iOS platform based Medicine Store mobile Application"
+
+            ]
+        },
+        {
+            "Name": "Android App",
+            "Url": "https://github.com/delowarsikder/AndroidProject/tree/master/Project/AndroiD",
+            "Timeline": {
+                "Start": "2019",
+                "End": "2020"
+            },
+            "Descriptions": [
+                "This Directory Contain Many apps That has built by me",
+                "Java",
+                "XML"
+            ]
+        },
+        {
+            "Name": "Building Web Applications in Django",
+            "Url": "https://github.com/delowarsikder/djago_web_app_dj4e",
+            "Timeline": {
+                "Start": "October 2020",
+                "End": "November 2020"
+            },
+            "Descriptions": [
+                "HTML",
+                "CSS",
+                "Sql",
+                "Database",
+                "Django",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Name": "Bottom Touch",
+            "Url": "https://github.com/delowarsikder/Bottom-Touch-Game",
+            "Timeline": {
+                "Start": "August 2020",
+                "End": "September 2020"
+            },
+            "Descriptions": [
+                "Python based interactive game develop using pygame library",
+                "Python",
+                "Pygame",
+                "Geometry",
+                "Interactive"
+            ]
+        },
+        {
+            "Name": "Relief Goods management system for Flood affected people",
+            "Url": "https://github.com/delowarsikder/Relief-Goods-Management",
+            "Timeline": {
+                "Start": "February 2019 ",
+                "End": "July 2019"
+            },
+            "Descriptions": [
+                "Database Project",
+                "PL-Sql"
+            ]
+        },
+        {
+            "Name": "Automatic Spray Painting Machine",
+            "Url": "https://github.com/delowarsikder/AutomaticSprayPainting",
+            "Timeline": {
+                "Start": "2019",
+                "End": "2020"
+            },
+            "Descriptions": [
+                "C",
+                "Arduino",
+                "Robotics"
+            ]
+        },
+        {
+            "Name": "Wordpress theme Development",
+            "Url": "https://github.com/delowarsikder/Wordpress_themeDevelopment",
+            "Timeline": {
+                "Start": "July 2020",
+                "End": "August 2020"
+            },
+            "Descriptions": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "PHP",
+                "Wordpress",
+                "Convert static site to dynamic using wordpress function"
+            ]
+        },
+        {
+            "Name": "Compiler Design",
+            "Url": "https://github.com/delowarsikder/Compiler-Project/tree/master/myself_version-1.6",
+            "Timeline": {
+                "Start": "August 2019",
+                "End": "December 2019"
+            },
+            "Descriptions": [
+                "Bison",
+                "Flex",
+                "GNU",
+                "YACC",
+                "YAML"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "Technical Skills": [{
+            "division": "Languages",
+            "items": [
+                { "name": "C", "level": 80 },
+                { "name": "C++", "level": 75 },
+                { "name": "Python", "level": 70 },
+                { "name": "Java", "level": 60 },
+                { "name": "Swift", "level": 55 },
+                { "name": "Matlab", "level": 55 },
+                { "name": "PHP", "level": 50 },
+                { "name": "Dart", "level": 50 },
+                { "name": "C#", "level": 40 },
+                { "name": "Sql", "level": 85 },
+                { "name": "MongoDB", "level": 70 },
+                { "name": "8086 Assembly", "level": 40 },
+                { "name": "JavaScript", "level": 30 }
+            ]
+        },
+        {
+            "division": "Artificial Intelligence/Machine Learning Tools",
+            "items": [
+                { "name": "Artificial Intelligence", "level": 75 },
+                { "name": "Machine Learning", "level": 75 },
+                { "name": "Deep Learning", "level": 80 },
+                { "name": "TensorFlow", "level": 75 },
+                { "name": "Keras", "level": 75 },
+                { "name": "Computer Vision", "level": 75 },
+                { "name": "OpenCV", "level": 70 },
+                { "name": "PyTorch", "level": 50 },
+                { "name": "NLP", "level": 75 }
+            ]
+        },
+        {
+            "division": "Web Programming",
+            "items": [
+                { "name": "HTML", "level": 80 },
+                { "name": "CSS", "level": 75 },
+                { "name": "Bootstrap", "level": 65 },
+                { "name": "JavaScript", "level": 60 },
+                { "name": "jQuery", "level": 50 },
+                { "name": "Wordpress", "level": 60 }
+            ]
+        },
+        {
+            "division": "Development Tools / Enviroments",
+            "items": [
+                { "name": "Android Development", "level": 70 },
+                { "name": "Web Development", "level": 75 },
+                { "name": "iOS", "level": 70 },
+                { "name": "React.js", "level": 70 },
+                { "name": "Node.js", "level": 70 },
+                { "name": "Express.js", "level": 60 },
+                { "name": "Flutter", "level": 60 }
+
+            ]
+        },
+        {
+            "division": "Web Frameworks",
+            "items": [
+                { "name": "Django", "level": 50 },
+                { "name": "Asp.Net", "level": 30 },
+                { "name": "Laravel", "level": 40 }
+            ]
+        },
+        {
+            "division": "Others",
+            "items": [
+                { "name": "Data Structures", "level": 90 },
+                { "name": "Algorithms", "level": 90 },
+                { "name": "OOP", "level": 90 },
+                { "name": "Functional Programming", "level": 85 }
+            ]
+        },
+        {
+            "division": "Hands-on",
+            "items": [
+                { "name": "Arduino", "level": 80 },
+                { "name": "Raspberry Pi", "level": 60 },
+                { "name": "Vim", "level": 70 },
+                { "name": "LaTex", "level": 90 },
+                { "name": "Git", "level": 70 },
+                { "name": "Cisco Packet Tracer", "level": 90 },
+                { "name": "Auto-CAD", "level": 60 },
+                { "name": "Adobe Illustrator", "level": 50 }
+            ]
+        },
+        {
+            "division": "Operation System",
+            "items": [
+                { "name": "Windows", "level": 90 },
+                { "name": "Ubuntu", "level": 80 },
+                { "name": "masOS", "level": 70 },
+                { "name": "Raspbian-Raspberry Pi OS", "level": 50 }
+            ]
+        }
+    ]
+}

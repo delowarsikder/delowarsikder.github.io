@@ -1,0 +1,71 @@
+{
+    "Certifications": [
+        {
+            "images": [
+
+            ],
+            "Description": "Deep Learning Specialization"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Natural Language Processing in TensorFlow"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Technical Support Fundamentals"
+        }
+		,
+        {
+            "images": [
+
+            ],
+            "Description": "The Bits and Bytes of Computer Networking"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Learning How to Learn: Powerful mental tools to help you master tough subjects"
+        },
+		{
+            "images": [
+
+            ],
+            "Description": "CCNA: Introduction to Networks "
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Build a Full Website using WordPress"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Django for Everybody"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Intro to Game AI and Reinforcement Learning"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Introduction to Cybersecurity"
+        }
+    ]
+}

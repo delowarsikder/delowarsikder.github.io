@@ -1,0 +1,26 @@
+{
+    "Responsibilities": [{
+            "Organization Name": "Greater Barishal Association of KUET, Bangladesh",
+            "Position": "Vice President",
+            "Timeline": {
+                "Start": "March 2019",
+                "End": "Present"
+            },
+            "Key Responsibilities": [
+                "Greater Barishal Association is a social organization. This organization arranges many events in KUET. This organization not only work for Barishal regional students, but it also helps other regional students."
+            ]
+        },
+        {
+            "Organization Name": "Hardware Acceleration Club of KUET - HACK",
+            "Position": "Workshop Manager",
+            "Timeline": {
+                "Start": "March 2020",
+                "End": "Present"
+            },
+            "Key Responsibilities": [
+                "Here training on different robotics mechanism and build an automated system"
+            ]
+        }
+		
+    ]
+}

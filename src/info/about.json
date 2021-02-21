@@ -1,0 +1,21 @@
+{
+    "About": [{
+            "section": "bio",
+            "description": [
+                "I am hardworking and ambitious individual with a great passion for technology.I have excellent OOP, Competitive Programming, Data structure & Algorithm knowledge and Data Science Enthusiast with highly communication skills.I love learning new things like - programming languages, technology, design patterns, algorithms, data-structure and any other tech stuff."
+            ]
+        },
+        {
+            "section": "current work",
+            "description": [
+                "I am Seeking oppertunity I can build up my knowledge put into industry."
+            ]
+        },
+        {
+            "section": "background",
+            "description": [
+                "I am currently (4th year) pursuing  my Undergraduate degree, B.Sc in Computer Science and Engineering from Khulna University of Engineering & Technology (KUET),Khulna-9203,Bangladesh."
+            ]
+        }
+    ]
+}
